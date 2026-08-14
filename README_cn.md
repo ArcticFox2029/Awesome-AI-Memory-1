@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 [![Papers](https://img.shields.io/badge/Papers-540-blue.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/papers)
-[![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-110-green.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/projects)
+[![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-111-green.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/projects)
 
 
 ## 👋 简介
@@ -10813,6 +10813,7 @@ Framework for Experience-Driven Agent Evolution</strong></td>
 | AccInt | 2026-06-15 | ![GitHub Repo stars](https://img.shields.io/github/stars/maxbaluev/accreted-intelligence?style=social) | https://github.com/maxbaluev/accreted-intelligence<br>https://accint.xyz/ |
 | Tree Ring Memory | 2026-07-07 | ![GitHub Repo stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social) | https://github.com/TerminallyLazy/Tree-Ring-Memory<br>https://terminallylazy.github.io/Tree-Ring-Memory/ |
 | Data Olympus | 2026-07-08 | ![GitHub Repo stars](https://img.shields.io/github/stars/knaisoma/data-olympus?style=social) | https://github.com/knaisoma/data-olympus<br>No official website |
+| LWC | 2026-07-29 | ![GitHub Repo stars](https://img.shields.io/github/stars/JanYork/llm-wiki-cli?style=social) | https://github.com/JanYork/llm-wiki-cli<br>https://janyork.github.io/llm-wiki-cli/ |
 
 ### 🎥 多媒体资源
 
