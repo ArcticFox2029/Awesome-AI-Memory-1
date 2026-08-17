@@ -10861,6 +10861,7 @@ Systems below are ordered by **publication date**:
 | Tura | 2026-07-06 | ![GitHub Repo stars](https://img.shields.io/github/stars/Tura-AI/tura?style=social) | https://github.com/Tura-AI/tura<br>https://turaai.net/ |
 | Tree Ring Memory | 2026-07-07 | ![GitHub Repo stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social) | https://github.com/TerminallyLazy/Tree-Ring-Memory<br>https://terminallylazy.github.io/Tree-Ring-Memory/ |
 | Data Olympus | 2026-07-08 | ![GitHub Repo stars](https://img.shields.io/github/stars/knaisoma/data-olympus?style=social) | https://github.com/knaisoma/data-olympus<br>No official website |
+| Open Index | 2026-08-01 | ![GitHub Repo stars](https://img.shields.io/github/stars/DrDroidLab/open-index?style=social) | https://github.com/DrDroidLab/open-index<br>No official website |
 | Superself | 2026-07-23 | ![GitHub Repo stars](https://img.shields.io/github/stars/fxylabs/superself?style=social) | https://github.com/fxylabs/superself<br>https://superselfs.com/ |
 | Compartment | 2026-07-20 | ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=social) | https://github.com/MaxFreedomPollard/Compartment<br>No official website |
 | OpenViking | 2026-08-15 | ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) | https://github.com/volcengine/OpenViking<br>https://openviking.ai/ |
