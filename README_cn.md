@@ -10797,6 +10797,7 @@ Framework for Experience-Driven Agent Evolution</strong></td>
 | PackRat | 2026-04-09 | ![GitHub Repo stars](https://img.shields.io/github/stars/kevdogg102396-afk/packrat?style=social) | https://github.com/kevdogg102396-afk/packrat<br>https://www.npmjs.com/package/packrat-compress |
 | SkillClaw | 2026-04-10 | ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social) | https://github.com/AMAP-ML/SkillClaw<br>https://arxiv.org/abs/2604.08377 |
 | Synap | 2026-04-10 | ![GitHub Repo stars](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk?style=social) | https://github.com/maximem-ai/maximem_synap_sdk<br>https://maximem.ai |
+| Mnemoverse | 2026-04-10 | ![GitHub Repo stars](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server?style=social) | https://github.com/mnemoverse/mcp-memory-server<br>https://mnemoverse.com |
 | Formative Memory | 2026-04-11 | ![GitHub Repo stars](https://img.shields.io/github/stars/jarimustonen/formative-memory?style=social) | https://github.com/jarimustonen/formative-memory<br>No official website |
 | taOSmd | 2026-04-13 | ![GitHub Repo stars](https://img.shields.io/github/stars/jaylfc/taosmd?style=social) | https://github.com/jaylfc/taosmd<br>[Docs & benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md) |
 | ToolPipe | 2026-04-17 | ![GitHub Repo stars](https://img.shields.io/github/stars/COSAI-Labs/toolpipe-mcp-server?style=social) | https://github.com/COSAI-Labs/toolpipe-mcp-server<br>https://toolpipe.dev |
@@ -10806,14 +10807,22 @@ Framework for Experience-Driven Agent Evolution</strong></td>
 | kaeru | 2026-05-08 | ![GitHub Repo stars](https://img.shields.io/github/stars/LamantinAI/kaeru?style=social) | https://github.com/LamantinAI/kaeru<br>No official website |
 | Dakera | 2026-05-12 | ![GitHub Repo stars](https://img.shields.io/github/stars/dakera-ai/dakera-mcp?style=social) | https://github.com/dakera-ai/dakera-mcp<br>https://dakera.ai/ |
 | Perseus | 2026-05-18 | ![GitHub Repo stars](https://img.shields.io/github/stars/tcconnally/perseus?style=social) | https://github.com/tcconnally/perseus<br>https://perseus.observer/ |
+| Talamus | 2026-05-21 | ![GitHub Repo stars](https://img.shields.io/github/stars/ampres-ai/talamus?style=social) | https://github.com/ampres-ai/talamus<br>https://ampres-ai.github.io/talamus/ |
 | Agentic Task System | 2026-05-29 | ![GitHub Repo stars](https://img.shields.io/github/stars/renezander030/agentic-task-system?style=social) | https://github.com/renezander030/agentic-task-system<br>https://www.npmjs.com/package/@reneza/ats-cli |
 | OWASP Agent Memory Guard | 2026-05-30 | ![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social) | https://github.com/OWASP/www-project-agent-memory-guard<br>https://pypi.org/project/agent-memory-guard/ |
 | Engrava | 2026-06-02 | ![GitHub Repo stars](https://img.shields.io/github/stars/sovantica/engrava?style=social) | https://github.com/sovantica/engrava<br>https://engrava.ai |
 | Mimir | 2026-06-06 | ![GitHub Repo stars](https://img.shields.io/github/stars/tcconnally/mimir?style=social) | https://github.com/tcconnally/mimir<br>https://perseus.observer/mimir |
+| mem0ry4ai | 2026-06-11 | ![GitHub Repo stars](https://img.shields.io/github/stars/cremenescu/mem0ry4ai?style=social) | https://github.com/cremenescu/mem0ry4ai<br>https://cremenescu.ro/en/mem0ry4ai/ |
 | AccInt | 2026-06-15 | ![GitHub Repo stars](https://img.shields.io/github/stars/maxbaluev/accreted-intelligence?style=social) | https://github.com/maxbaluev/accreted-intelligence<br>https://accint.xyz/ |
+| SQLite Graph Memory | 2026-07-03 | ![GitHub Repo stars](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/sqlite-graph-memory?style=social) | https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory<br>No official website |
+| wiki | 2026-07-01 | ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/wiki?style=social) | https://github.com/plasma-ai/wiki<br>https://docs.plasma.ai/wiki |
+| Lians | 2026-07-06 | ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social) | https://github.com/Lians-ai/Lians<br>https://www.lians.ai/ |
+| Tura | 2026-07-06 | ![GitHub Repo stars](https://img.shields.io/github/stars/Tura-AI/tura?style=social) | https://github.com/Tura-AI/tura<br>https://turaai.net/ |
 | Tree Ring Memory | 2026-07-07 | ![GitHub Repo stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social) | https://github.com/TerminallyLazy/Tree-Ring-Memory<br>https://terminallylazy.github.io/Tree-Ring-Memory/ |
 | Data Olympus | 2026-07-08 | ![GitHub Repo stars](https://img.shields.io/github/stars/knaisoma/data-olympus?style=social) | https://github.com/knaisoma/data-olympus<br>No official website |
 | Open Index | 2026-08-01 | ![GitHub Repo stars](https://img.shields.io/github/stars/DrDroidLab/open-index?style=social) | https://github.com/DrDroidLab/open-index<br>No official website |
+| Compartment | 2026-07-20 | ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=social) | https://github.com/MaxFreedomPollard/Compartment<br>No official website |
+| OpenViking | 2026-08-15 | ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) | https://github.com/volcengine/OpenViking<br>https://openviking.ai/ |
 
 ### 🎥 多媒体资源
 
