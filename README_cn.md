@@ -10783,6 +10783,7 @@ Framework for Experience-Driven Agent Evolution</strong></td>
 | Autohand Code CLI | 2025-12-20 | ![GitHub Repo stars](https://img.shields.io/github/stars/autohandai/code-cli?style=social) | https://github.com/autohandai/code-cli<br>https://www.autohand.ai/code/ |
 | Hindsight   | 2025-12-22 | ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) | https://github.com/vectorize-io/hindsight<br>https://hindsight.vectorize.io/ |
 | MAGMA       | 2026-01-06 | ![GitHub Repo stars](https://img.shields.io/github/stars/FredJiang0324/MAMGA?style=social) | https://github.com/FredJiang0324/MAMGA<br>No official website |
+| Mengram | 2026-02-11 | ![GitHub Repo stars](https://img.shields.io/github/stars/alibaizhanov/mengram?style=social) | https://github.com/alibaizhanov/mengram<br>https://mengram.io/ |
 | widemem-ai | 2026-02-23 | ![GitHub Repo stars](https://img.shields.io/github/stars/remete618/widemem-ai?style=social) | https://github.com/remete618/widemem-ai<br>https://widemem.ai |
 | Riverse | 2026-02-25 | ![GitHub Repo stars](https://img.shields.io/github/stars/wangjiake/JKRiver?style=social) | https://github.com/wangjiake/JKRiver<br>https://wangjiake.github.io/riverse-docs/ |
 | SuperLocalMemory | 2026-03-01 | ![GitHub Repo stars](https://img.shields.io/github/stars/qualixar/superlocalmemory?style=social) | https://github.com/qualixar/superlocalmemory<br>https://superlocalmemory.com/ |
@@ -10822,7 +10823,9 @@ Framework for Experience-Driven Agent Evolution</strong></td>
 | Tree Ring Memory | 2026-07-07 | ![GitHub Repo stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social) | https://github.com/TerminallyLazy/Tree-Ring-Memory<br>https://terminallylazy.github.io/Tree-Ring-Memory/ |
 | Data Olympus | 2026-07-08 | ![GitHub Repo stars](https://img.shields.io/github/stars/knaisoma/data-olympus?style=social) | https://github.com/knaisoma/data-olympus<br>No official website |
 | LWC | 2026-07-29 | ![GitHub Repo stars](https://img.shields.io/github/stars/JanYork/llm-wiki-cli?style=social) | https://github.com/JanYork/llm-wiki-cli<br>https://janyork.github.io/llm-wiki-cli/ |
+| ViBo | 2026-08-13 | ![GitHub Repo stars](https://img.shields.io/github/stars/vnbochkarev-netizen/ViBo-memory) | [GitHub](https://github.com/vnbochkarev-netizen/ViBo-memory) · [Site](https://wwwvibo.com) — encrypted L1/L2/L3 memory, web search savings 99.6%, thread memory |
 | Open Index | 2026-08-01 | ![GitHub Repo stars](https://img.shields.io/github/stars/DrDroidLab/open-index?style=social) | https://github.com/DrDroidLab/open-index<br>No official website |
+| Superself | 2026-07-23 | ![GitHub Repo stars](https://img.shields.io/github/stars/fxylabs/superself?style=social) | https://github.com/fxylabs/superself<br>https://superselfs.com/ |
 | Compartment | 2026-07-20 | ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=social) | https://github.com/MaxFreedomPollard/Compartment<br>No official website |
 | OpenViking | 2026-08-15 | ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) | https://github.com/volcengine/OpenViking<br>https://openviking.ai/ |
 
