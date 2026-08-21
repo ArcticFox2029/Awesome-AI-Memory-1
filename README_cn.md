@@ -11,7 +11,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
-[![Papers](https://img.shields.io/badge/Papers-540-blue.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/papers)
+[![Papers](https://img.shields.io/badge/Papers-541-blue.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/papers)
 [![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-111-green.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/projects)
 
 
@@ -2868,6 +2868,26 @@ To systematically organize the diverse research and practical resources in the f
           • 提出 MIA（Memory Intelligence Agent）记忆智能体框架，采用 Manager-Planner-Executor 架构，通过将历史搜索轨迹压缩为结构化的非参数化记忆来解决存储与检索瓶颈。<br>
           • 引入两阶段交替强化学习范式以实现高层规划与底层执行的协同对齐，并设计了持续的测试时学习机制，支持在推理过程中动态更新参数化记忆。<br>
           • 结合反思机制与无监督评估框架，在多项深度研究任务中实现了SOTA性能，并展现出在不同基准测试中强大的自我进化能力。
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="2" style="width: 15%;">2026-04-26</td>
+        <td style="width: 55%;"><strong>ZenBrain: A Neuroscience-Inspired 7-Layer Memory Architecture for Autonomous AI Systems</strong></td>
+        <td style="width: 15%;">
+          <img src="https://img.shields.io/badge/Agent%20Memory-blue" alt="Agent Memory">
+          <img src="https://img.shields.io/badge/Long--term%20Memory-brightgreen" alt="Long-term Memory">
+          <img src="https://img.shields.io/badge/Hebbian%20Learning-yellow" alt="Hebbian Learning">
+          <img src="https://img.shields.io/badge/Spaced%20Repetition-teal" alt="Spaced Repetition">
+          <img src="https://img.shields.io/badge/Open--Source-orange" alt="Open Source">
+        </td>
+        <td style="width: 15%;"><a href="https://arxiv.org/abs/2604.23878">
+          <img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge">
+        </a></td>
+      </tr>
+      <tr>
+        <td colspan="3">
+          • 推出 ZenBrain——一种面向自主智能体的七层长期记忆架构，融合了受神经科学启发的多种机制——包括赫布学习（Hebbian learning）、FSRS 间隔重复、睡眠周期巩固和贝叶斯置信传播——并以开源、零依赖的 TypeScript 库形式发布。<br>
+          • 在 LongMemEval-500 评测中，它仅用 1/106 的 token 预算即达到 91.3% 的 oracle 准确率，并在与 Letta、Mem0 和 A-Mem 的逐一对比中取得 12/12 全胜。<br>
         </td>
       </tr>
       <tr>
