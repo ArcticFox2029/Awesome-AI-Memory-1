@@ -750,6 +750,24 @@ To systematically organize the diverse research and practical resources in the f
       <td><strong>链接</strong></td>
     </tr>
     <tr>
+      <td rowspan="2" style="width: 15%;">2026-08-21</td>
+      <td style="width: 55%;"><strong>ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction</strong></td>
+      <td style="width: 15%;">
+        <img src="https://img.shields.io/badge/智能体记忆-blue" alt="智能体记忆">
+        <img src="https://img.shields.io/badge/自我进化-brightgreen" alt="自我进化">
+      </td>
+      <td style="width: 15%;"><a href="https://arxiv.org/pdf/2608.20920">
+        <img src="https://img.shields.io/badge/arXiv-论文-%23D2691E?logo=arxiv" alt="论文徽章">
+      </a></td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        • 提出 ForeDreamer，一种面向开放网络未来事件预测的自进化双智能体记忆框架，将问题级事实记忆与跨预测任务持久化的经验记忆分离。<br>
+        • 主智能体负责检索与预测，记忆处理子智能体通过 MemGuide 和可执行 MemTool 将嘈杂、受时间截点约束的网页证据转化为结构化事实记忆；文本与程序性记忆通过验证门控更新共同演化。<br>
+        • 在 Qwen3.5-Flash 和 GPT-5.4-Nano 上，ForeDreamer 在 Prophet Arena 上分别取得 0.1471 和 0.1839 的 Brier 分数，在 FutureX 上分别取得 0.4108 和 0.3883 的准确率，均优于对应基准和骨干模型下最强的已有对比方法。
+      </td>
+    </tr>
+    <tr>
       <td rowspan="2" style="width: 15%;">2026-07-02</td>
       <td style="width: 55%;"><strong>DRIFTLENS: Measuring Memory-Induced Reasoning Drift in Personalized Language Models</strong></td>
       <td style="width: 15%;">

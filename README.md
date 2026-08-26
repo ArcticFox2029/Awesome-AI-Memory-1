@@ -750,6 +750,24 @@ Papers below are ordered by **publication date**:
       <td><strong>Links</strong></td>
     </tr>
     <tr>
+      <td rowspan="2" style="width: 15%;">2026-08-21</td>
+      <td style="width: 55%;"><strong>ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction</strong></td>
+      <td style="width: 15%;">
+        <img src="https://img.shields.io/badge/Agent%20Memory-blue" alt="Agent Memory">
+        <img src="https://img.shields.io/badge/Self--Evolution-brightgreen" alt="Self-Evolution">
+      </td>
+      <td style="width: 15%;"><a href="https://arxiv.org/pdf/2608.20920">
+        <img src="https://img.shields.io/badge/arXiv-Paper-%23D2691E?logo=arxiv" alt="Paper Badge">
+      </a></td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        • Introduces ForeDreamer, a self-evolving dual-agent memory framework for open-web future event prediction that separates question-specific factual memory from persistent experiential memory.<br>
+        • A main agent searches and predicts, while a memory-processing subagent uses MemGuides and executable MemTools to transform noisy, cutoff-aware web evidence into structured factual memory; textual and procedural memories evolve through validation-gated updates.<br>
+        • With Qwen3.5-Flash and GPT-5.4-Nano, ForeDreamer achieves Brier scores of 0.1471 and 0.1839 on Prophet Arena and accuracies of 0.4108 and 0.3883 on FutureX, outperforming the strongest compared baseline for each benchmark and backbone.
+      </td>
+    </tr>
+    <tr>
     <td rowspan="2" style="width: 15%;">2026-07-02</td>
     <td style="width: 55%;"><strong>DRIFTLENS: Measuring Memory-Induced Reasoning Drift in Personalized Language Models</strong></td>
     <td style="width: 15%;">
